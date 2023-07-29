@@ -103,7 +103,7 @@ $('#yes').click(function() {
         text: "Toii cũng iuu bạn gấc nhìu!!! Je t'extraimee aussiii ",
         confirmButtonColor: '#83d0c9',
         onClose: () => {
-            window.location = 'https://phanthanhthang.github.io/boich/';
+            window.location = 'https://phanthanhthang.github.io/bimim/';
         }
 
     })
